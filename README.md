@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm SAMEERAHMED👋<a href="https://hammad-air.github.io/hamza/"></h1>
+    <h1> Hi there, I'm Sameer Ahmed👋<a href="https://hammad-air.github.io/hamza/"></h1>
   </div>
 <p align="center">
 <a href="https://github.com/hammad-air"><img src="https://readme-typing-svg.herokuapp.com/?lines=NLP+and+Web+Developer;Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
@@ -9,9 +9,9 @@
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
  -->
 
-🤵 Studying at @ZABIST 🤖
+🤵 Studying at @saylani mass it traning 🤖
 	
-👨‍💻 AI Engineer CargoAI
+👨‍💻 AI Engineer 
 	
 💸 Help 80+ Clients via Generative AI & Automation
 
